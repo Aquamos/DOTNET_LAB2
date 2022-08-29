@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <resource>
+    <Id>1</Id>
+    <Name>Cloud Computing from Beginning to End by Ray J Rafaels</Name>
+    <ResourceTypeId>1</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>2</Id>
+    <Name>Cloud Computing: Concepts, Technology &amp; Architecture</Name>
+    <ResourceTypeId>1</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>3</Id>
+    <Name>Cloud Storage on Happy Coding web-site</Name>
+    <ResourceTypeId>3</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>4</Id>
+    <Name>Large time behavior of entropy solutions</Name>
+    <ResourceTypeId>4</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>5</Id>
+    <Name>Two-velocity hydrodynamics in fluid mechanics</Name>
+    <ResourceTypeId>3</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>6</Id>
+    <Name>Heat Transfer, Specific Heat, and Heat Capacity</Name>
+    <ResourceTypeId>5</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>7</Id>
+    <Name>Thermal Imaging - an overview on ScienceDirectTopics web-site</Name>
+    <ResourceTypeId>3</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>8</Id>
+    <Name>New Trends and Technologies in Computer-Aided Learning</Name>
+    <ResourceTypeId>1</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>9</Id>
+    <Name>LIMITLESS (2011)</Name>
+    <ResourceTypeId>2</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>10</Id>
+    <Name>Web Programming and Internet Technologies: An E-commerce Approach</Name>
+    <ResourceTypeId>1</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>11</Id>
+    <Name>Digital Innovation at Dow with CVP/CIO/CDO Melanie Kalmar</Name>
+    <ResourceTypeId>5</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>12</Id>
+    <Name>The eCommerceFuel Podcast</Name>
+    <ResourceTypeId>5</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>13</Id>
+    <Name>INTERNET TECHNOLOGY IN ELECTRONIC COMMERCE</Name>
+    <ResourceTypeId>3</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>14</Id>
+    <Name>Mod-03 Lec-04 One Dimensional Optimization - Optimality Conditions</Name>
+    <ResourceTypeId>4</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>15</Id>
+    <Name>One-Dimensional Optimization on SpringerLink web-site</Name>
+    <ResourceTypeId>3</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>16</Id>
+    <Name>Mod-01 Lec-07 FIRMWARE DESIGNING FOR ANDROID MOBILE</Name>
+    <ResourceTypeId>4</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>17</Id>
+    <Name>Customization and Installation of Android Podcast</Name>
+    <ResourceTypeId>5</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>18</Id>
+    <Name>Organising the Process of Physics Students Cognitive Activity Podcast</Name>
+    <ResourceTypeId>5</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>19</Id>
+    <Name>Students’ regulation of cognition in physics problem-solving</Name>
+    <ResourceTypeId>2</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>20</Id>
+    <Name>Model View Matrix</Name>
+    <ResourceTypeId>2</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>21</Id>
+    <Name>Fuzzy Mathematical Programming and Fuzzy Matrix Games Podcast</Name>
+    <ResourceTypeId>5</ResourceTypeId>
+  </resource>
+  <resource>
+    <Id>22</Id>
+    <Name>Building Web Apps With Wordpress on Climb web-site</Name>
+    <ResourceTypeId>3</ResourceTypeId>
+  </resource>
+</resources>

@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<people>
+  <student>
+    <Id>1</Id>
+    <FirstName>Sherlok</FirstName>
+    <LastName>Tkachuk</LastName>
+    <FullName>Sherlok Tkachuk</FullName>
+    <BirthDate>7/13/2000</BirthDate>
+    <DepartmentId>3</DepartmentId>
+    <GroupId>7</GroupId>
+    <GPA>90.66</GPA>
+    <Topic>Possibilities of using cloud storage</Topic>
+    <DateOfDefense>6/16/2022</DateOfDefense>
+  </student>
+  <student>
+    <Id>2</Id>
+    <FirstName>Ustym</FirstName>
+    <LastName>Kholodnyi</LastName>
+    <FullName>Ustym Kholodnyi</FullName>
+    <BirthDate>3/19/2000</BirthDate>
+    <DepartmentId>2</DepartmentId>
+    <GroupId>4</GroupId>
+    <GPA>76.27</GPA>
+    <Topic>Entropy solutions of model equations of hydromechanics</Topic>
+    <DateOfDefense>5/23/2022</DateOfDefense>
+  </student>
+  <student>
+    <Id>3</Id>
+    <FirstName>Yevlampii</FirstName>
+    <LastName>Sterniuk</LastName>
+    <FullName>Yevlampii Sterniuk</FullName>
+    <BirthDate>10/21/2000</BirthDate>
+    <DepartmentId>3</DepartmentId>
+    <GroupId>6</GroupId>
+    <GPA>97.73</GPA>
+    <Topic>Finding of heat, contrast and other characteristics of images</Topic>
+    <DateOfDefense>6/5/2022</DateOfDefense>
+  </student>
+  <student>
+    <Id>4</Id>
+    <FirstName>Chestyslav</FirstName>
+    <LastName>Butko</LastName>
+    <FullName>Chestyslav Butko</FullName>
+    <BirthDate>1/2/2000</BirthDate>
+    <DepartmentId>1</DepartmentId>
+    <GroupId>3</GroupId>
+    <GPA>99.27</GPA>
+    <Topic>Modern trends in the development of computer-oriented learning technologies</Topic>
+    <DateOfDefense>6/10/2022</DateOfDefense>
+  </student>
+  <student>
+    <Id>5</Id>
+    <FirstName>Yulian</FirstName>
+    <LastName>Syrovatskyi</LastName>
+    <FullName>Yulian Syrovatskyi</FullName>
+    <BirthDate>2/26/2000</BirthDate>
+    <DepartmentId>1</DepartmentId>
+    <GroupId>1</GroupId>
+    <GPA>96.55</GPA>
+    <Topic>Internet technologies in electronic commerce</Topic>
+    <DateOfDefense>6/12/2022</DateOfDefense>
+  </student>
+  <student>
+    <Id>6</Id>
+    <FirstName>Iryna</FirstName>
+    <LastName>Limnychenko</LastName>
+    <FullName>Iryna Limnychenko</FullName>
+    <BirthDate>6/15/2000</BirthDate>
+    <DepartmentId>2</DepartmentId>
+    <GroupId>5</GroupId>
+    <GPA>87.35</GPA>
+    <Topic>Analysis and programming of one-dimensional optimization algorithms</Topic>
+    <DateOfDefense>5/20/2022</DateOfDefense>
+  </student>
+  <student>
+    <Id>7</Id>
+    <FirstName>Tetiana</FirstName>
+    <LastName>Otkovych</LastName>
+    <FullName>Tetiana Otkovych</FullName>
+    <BirthDate>8/30/2000</BirthDate>
+    <DepartmentId>1</DepartmentId>
+    <GroupId>1</GroupId>
+    <GPA>99.31</GPA>
+    <Topic>Optimization of the firmware of mobile devices based on the AOS</Topic>
+    <DateOfDefense>6/12/2022</DateOfDefense>
+  </student>
+  <student>
+    <Id>8</Id>
+    <FirstName>Tereza</FirstName>
+    <LastName>Telezhynska</LastName>
+    <FullName>Tereza Telezhynska</FullName>
+    <BirthDate>8/5/2000</BirthDate>
+    <DepartmentId>3</DepartmentId>
+    <GroupId>8</GroupId>
+    <GPA>85.91</GPA>
+    <Topic>Creating a Problem Situationin Physics Lessons ACA of Primary School Students</Topic>
+    <DateOfDefense>6/7/2022</DateOfDefense>
+  </student>
+  <student>
+    <Id>9</Id>
+    <FirstName>Uliana</FirstName>
+    <LastName>Konoplenko</LastName>
+    <FullName>Uliana Konoplenko</FullName>
+    <BirthDate>11/11/2000</BirthDate>
+    <DepartmentId>2</DepartmentId>
+    <GroupId>2</GroupId>
+    <GPA>95.32</GPA>
+    <Topic>Matrix game models</Topic>
+    <DateOfDefense>5/20/2022</DateOfDefense>
+  </student>
+  <student>
+    <Id>10</Id>
+    <FirstName>Daryna</FirstName>
+    <LastName>Hvozdyk</LastName>
+    <FullName>Daryna Hvozdyk</FullName>
+    <BirthDate>12/19/2000</BirthDate>
+    <DepartmentId>1</DepartmentId>
+    <GroupId>3</GroupId>
+    <GPA>88.66</GPA>
+    <Topic>Design of a client-server application interface on the WordPress platform</Topic>
+    <DateOfDefense>6/14/2022</DateOfDefense>
+  </student>
+  <teacher>
+    <Id>11</Id>
+    <FirstName>Ihor</FirstName>
+    <LastName>Kovbasiuk</LastName>
+    <FullName>Ihor Kovbasiuk</FullName>
+    <BirthDate>3/4/1970</BirthDate>
+    <DepartmentId>2</DepartmentId>
+    <RankId>4</RankId>
+  </teacher>
+  <teacher>
+    <Id>12</Id>
+    <FirstName>Yevhenii</FirstName>
+    <LastName>Savka</LastName>
+    <FullName>Yevhenii Savka</FullName>
+    <BirthDate>5/20/1994</BirthDate>
+    <DepartmentId>1</DepartmentId>
+    <RankId>1</RankId>
+  </teacher>
+  <teacher>
+    <Id>13</Id>
+    <FirstName>Daryna</FirstName>
+    <LastName>Kalytovska</LastName>
+    <FullName>Daryna Kalytovska</FullName>
+    <BirthDate>9/9/1968</BirthDate>
+    <DepartmentId>1</DepartmentId>
+    <RankId>3</RankId>
+  </teacher>
+  <teacher>
+    <Id>14</Id>
+    <FirstName>Zhanna</FirstName>
+    <LastName>Topiha</LastName>
+    <FullName>Zhanna Topiha</FullName>
+    <BirthDate>12/1/1987</BirthDate>
+    <DepartmentId>2</DepartmentId>
+    <RankId>2</RankId>
+  </teacher>
+  <teacher>
+    <Id>15</Id>
+    <FirstName>Yehor</FirstName>
+    <LastName>Liashchuk</LastName>
+    <FullName>Yehor Liashchuk</FullName>
+    <BirthDate>1/20/1985</BirthDate>
+    <DepartmentId>3</DepartmentId>
+    <RankId>3</RankId>
+  </teacher>
+  <teacher>
+    <RankId>4</RankId>
+    <Id>16</Id>
+    <FirstName>Bla</FirstName>
+    <LastName>Bla</LastName>
+    <FullName>Bla Bla</FullName>
+    <DepartmentId>3</DepartmentId>
+    <BirthDate>12/12/2022</BirthDate>
+  </teacher>
+</people>

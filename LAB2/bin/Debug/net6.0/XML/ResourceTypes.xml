@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resourceTypes>
+  <resourceType>
+    <Id>1</Id>
+    <Name>Text book</Name>
+  </resourceType>
+  <resourceType>
+    <Id>2</Id>
+    <Name>Film</Name>
+  </resourceType>
+  <resourceType>
+    <Id>3</Id>
+    <Name>Digital learning resource</Name>
+  </resourceType>
+  <resourceType>
+    <Id>4</Id>
+    <Name>Lecture</Name>
+  </resourceType>
+  <resourceType>
+    <Id>5</Id>
+    <Name>Speeche</Name>
+  </resourceType>
+</resourceTypes>

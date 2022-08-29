@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<departments>
+  <department>
+    <Id>1</Id>
+    <Name>Faculty of Informatics and Computer Science</Name>
+    <NameAbbreviation>FICT</NameAbbreviation>
+  </department>
+  <department>
+    <Id>2</Id>
+    <Name>Faculty of Applied Mathematics</Name>
+    <NameAbbreviation>FAM</NameAbbreviation>
+  </department>
+  <department>
+    <Id>3</Id>
+    <Name>Faculty of Physics and Mathematics</Name>
+    <NameAbbreviation>FPM</NameAbbreviation>
+  </department>
+</departments>

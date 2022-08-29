@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ranks>
+  <rank>
+    <Id>1</Id>
+    <Name>Assistant Lecturer</Name>
+  </rank>
+  <rank>
+    <Id>2</Id>
+    <Name>Senior Instructor</Name>
+  </rank>
+  <rank>
+    <Id>3</Id>
+    <Name>Associate Professor</Name>
+  </rank>
+  <rank>
+    <Id>4</Id>
+    <Name>Professor</Name>
+  </rank>
+</ranks>
